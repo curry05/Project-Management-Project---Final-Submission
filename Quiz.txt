@@ -1,0 +1,60 @@
+What is the first stage of the SDLC?
+Planning / Requirements
+System Design
+Implementation
+Testing
+A
+What does feasibility analysis check for?
+Technical, economic, and operational feasibility
+Only coding difficulty
+User interface design only
+Hardware requirements only
+A
+Which SDLC stage includes creating wireframes and ERD diagrams?
+Planning / Requirements
+System Design
+Testing
+Maintenance
+B
+Which SDLC stage involves debugging and defect tracking?
+Deployment
+Implementation
+Testing
+Maintenance
+C
+Which SDLC stage involves installing software in the user environment?
+Planning / Requirements
+Deployment
+Maintenance
+System Design
+B
+Updating features and fixing bugs happens during which stage?
+Design
+Maintenance
+Testing
+Planning
+B
+What is the purpose of version control (e.g., Git)?
+Designing UI mockups
+Tracking code changes and collaboration
+Conducting system tests
+Creating Gantt charts
+B
+Which SDLC model follows a strictly linear sequence?
+Waterfall
+Agile
+Spiral
+Iterative
+A
+Which role is responsible for defining system requirements with stakeholders?
+Developer
+Tester (QA)
+Business Analyst
+Client/User
+C
+Which project management tool shows task timelines visually?
+Kanban board
+UML diagram
+Gantt chart
+Version control
+C

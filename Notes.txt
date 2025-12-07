@@ -1,0 +1,45 @@
+
+SDLC Project Management 
+SDLC Overview: Structured approach to software development - Improves planning, organization, quality, and communication - Divided into clear, manageable phases
+1.  Planning / Requirements
+-   Identify problem
+-   Define project goals
+-   Gather user requirements
+-   Determine project scope
+-   Feasibility analysis (technical, economic, operational)
+-   Estimate time, cost, resources
+-   Create project plan & requirements document
+2.  System Design
+-   System architecture planning
+-   User interface design (mockups, wireframes)
+-   Data models (ERD, UML diagrams)
+-   Module breakdown
+-   Hardware/software specifications
+3.  Implementation (Coding)
+-   Code development
+-   Follow coding standards
+-   Use version control (Git)
+-   Integrate modules
+-   Internal developer testing
+4.  Testing
+-   Unit testing
+-   Integration testing
+-   System testing
+-   User Acceptance Testing (UAT)
+-   Debugging and defect tracking
+5.  Deployment
+-   Install system in user environment
+-   Configure system settings
+-   Data migration (if needed)
+-   Provide training and manuals
+-   Release to users
+6.  Maintenance
+-   Bug fixes after release
+-   Feature updates
+-   Performance improvements
+-   Compatibility updates
+-   Long-term support
+SDLC Models: Waterfall - Iterative / Incremental - Agile - Spiral
+Project Management Tools: Gantt charts - PERT charts - Kanban boards -
+Version control systems (Git/GitHub):  Documentation
+Project Roles: Project Manager - Business Analyst - System Architect - Developer - Tester (QA) - Client/User

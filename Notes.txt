@@ -1,3 +1,4 @@
+
 SDLC Project Management – Super Short Notes
 SDLC Overview: - Structured software process → better planning, quality,
 communication.
